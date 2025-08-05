@@ -39,8 +39,8 @@ A full-featured e-commerce web application built with React, Redux, and Tailwind
 
 1. Clone the repository:
 
-   git clone https://github.com/AdityaPawar14/ShoppyGlobe_eCommerce.git
-   cd shoppyglobe
+- git clone https://github.com/AdityaPawar14/ShoppyGlobe_eCommerce.git
+- cd shoppyglobe
 
-   npm install
-   npm run dev  
+- npm install
+- npm run dev  
