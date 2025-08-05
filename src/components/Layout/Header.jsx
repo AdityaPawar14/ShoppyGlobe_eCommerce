@@ -68,7 +68,7 @@ const Header = ({ searchTerm, onSearchChange }) => {
 
             {/* GitHub Link */}
             <a 
-              href="https://github.com/your-username/your-repo" 
+              href="https://github.com/AdityaPawar14/ShoppyGlobe_eCommerce" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-700 hover:text-gray-900 transition-colors"
